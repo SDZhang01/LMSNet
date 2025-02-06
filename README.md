@@ -1,2 +1,2 @@
-# LMSNet
-The code will be publicly released soon.
+# The code will be publicly released soon.
+
